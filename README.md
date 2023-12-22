@@ -34,7 +34,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/41593889-ca4c-4ac6-9037-caa987cb952a)
 
-IIS setup
+Go to Control Panel
+Select Programs
+Turn windows features on or off
 
 <br />
 
