@@ -37,6 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Go to Control Panel
 - Select Programs
 - Turn windows features on or off
+- Select Internet Information Services (IIS is the server that osTicket runs in)
 
 <br />
 
