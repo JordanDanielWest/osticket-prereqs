@@ -34,8 +34,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/41593889-ca4c-4ac6-9037-caa987cb952a)
 
-
 IIS setup
+
+![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/0af5c476-29ad-4c92-b94e-7f1fa0708020)
+
 <br />
 
 <p>
