@@ -50,4 +50,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/bbd43b29-9eb6-4444-b4ac-90873f2381ef)
 
+Select Ok to begin installation
 <br />
