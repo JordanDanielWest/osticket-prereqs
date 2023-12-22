@@ -33,9 +33,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/585388e6-edb7-40c7-a1f3-0a91850d2f97)
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/fbd08131-7e0e-4d5b-b000-aaae96ec0977)
+
 <p>
 IIS setup
 <br />
