@@ -46,5 +46,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/9d14d055-60aa-42d4-970e-c3aa018897ae)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
+
+![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/bbd43b29-9eb6-4444-b4ac-90873f2381ef)
