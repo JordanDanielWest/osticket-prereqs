@@ -65,5 +65,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 - Download and Install PHP Manager for IIS https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link
+- Download and Install Rewrite Module https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link
+- Create directory C:\PHP
+  
 
 <br />
