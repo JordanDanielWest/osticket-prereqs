@@ -37,13 +37,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Go to Control Panel
 - Select Programs
 - Turn windows features on or off
-- Select Internet Information Services (IIS is the server that osTicket runs in)
+- Enable Internet Information Services (IIS is the server that osTicket runs in)
 
 <br />
 
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/0af5c476-29ad-4c92-b94e-7f1fa0708020)
 
-- Select World Wide Web Services
+- Expand World Wide Web Services
+- Expand Application Development
+- Enable CGI
 <br />
 
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/9d14d055-60aa-42d4-970e-c3aa018897ae)
