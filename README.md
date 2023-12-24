@@ -109,7 +109,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - You'll note not all extensions are enabled
 - Return to IIS Manager, and double click PHP Manager
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/86873285-3022-4282-a83a-619e326e3a80)
-
+- Select "Enable or disable an extension"
+- Enable: php_imap.dll
+- Enable: php_intl.dll
+- Enable: php_opcache
+- 
 
 
 <br />
