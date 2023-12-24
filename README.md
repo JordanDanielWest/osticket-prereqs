@@ -79,6 +79,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Download and Install [VC_redist.x86.exe](url)
 - Download and Install [MySQL 5.5.62](url)
+- Typical Setup
   
 
 <br />
