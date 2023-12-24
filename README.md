@@ -80,6 +80,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Download and Install [VC_redist.x86.exe](url)
 - Download and Install [MySQL 5.5.62](url)
 - Typical Setup
+- Launch configuraion Wizard
+- Standard Configuration
+- Install as Windows Service
+- Create Password (you will need this later during osTicket registration)
   
 
 <br />
