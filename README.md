@@ -93,6 +93,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Click Register new PHP version
 - Provide path to php executable file which is in the PHP folder you created
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/4d9fddef-e32d-4157-a9ee-177cb0f95b0f)
+- Select OK
+- Restart IIS server
+![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/4f52912a-19e7-40d0-be4e-0c755dd17840)
 
 
 <br />
