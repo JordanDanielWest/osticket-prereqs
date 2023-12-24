@@ -77,7 +77,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/c27a0e0f-e405-4a28-9006-bbc2f6b89180)
 
--Download and install VC_redist.x86.exe https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link
+-Download and install [VC_redist.x86.exe](url) 
   
 
 <br />
