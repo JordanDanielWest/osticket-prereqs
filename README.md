@@ -88,8 +88,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 - Open IIS as administrator
-- Double CLick PHP Manager
+- Double Click PHP Manager
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/1de98877-9a50-4c25-a48c-26a3aa4982c5)
 - Click Register new PHP version
+- Provide path to php executable file which is in the PHP folder you created
+![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/4d9fddef-e32d-4157-a9ee-177cb0f95b0f)
+
 
 <br />
