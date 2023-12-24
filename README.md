@@ -85,5 +85,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install as Windows Service
 - Create Password (you will need this later during osTicket registration)
   
+<br />
+
+- Open IIS as administrator
 
 <br />
