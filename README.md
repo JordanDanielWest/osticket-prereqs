@@ -72,6 +72,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/8a1b9d7c-ce51-4450-8e5c-cfef8855a769)
 
 - Create directory C:\PHP
+- Download PHP 7.3.8 https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link
   
 
 <br />
