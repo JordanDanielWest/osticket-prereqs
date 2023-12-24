@@ -66,6 +66,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Download and Install PHP Manager for IIS https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link
 - Download and Install Rewrite Module https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link
+
+<br />
+
+![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/8a1b9d7c-ce51-4450-8e5c-cfef8855a769)
+
 - Create directory C:\PHP
   
 
