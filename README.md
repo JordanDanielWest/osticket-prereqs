@@ -98,5 +98,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/4f52912a-19e7-40d0-be4e-0c755dd17840)
 - Install osTicket
 - Extract and copy "upload" folder to c:\inetpub\wwwroot
+![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/39e04966-9e2b-4c22-99c1-9062f7f092ee)
 
 <br />
