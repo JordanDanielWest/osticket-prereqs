@@ -107,6 +107,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Click "Browse *:80"
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/e1d9142c-4e02-4f79-b98c-7b58ad380515)
 - You'll note not all extensions are enabled
+![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/821020e6-f8a2-4ab5-a015-8c1a4b43b622)
+- Return to IIS Manager, and double click PHP Manager
+![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/86873285-3022-4282-a83a-619e326e3a80)
+
 
 
 <br />
