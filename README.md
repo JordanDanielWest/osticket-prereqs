@@ -106,5 +106,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Select osTicket
 - Click "Browse *:80"
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/e1d9142c-4e02-4f79-b98c-7b58ad380515)
+- You'll note not all extensions are enabled
+
 
 <br />
