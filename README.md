@@ -114,6 +114,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enable: php_intl.dll
 - Enable: php_opcache
 - Refresh osTicket in your browser and observe the changes
+- Go to c:\inetpub\wwwroot\osTicket\include
+- Rename "ost-sampleconfig.php" to "ost-config.php"
+- Assign Permissions in "ost-config.php"
+- 1st disable inheritance (remove all)
+- Then set full control permissions for everyone
 
 
 <br />
