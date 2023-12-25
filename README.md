@@ -5,11 +5,6 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -28,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - VC_redist.x86.exe
 - (mysql-5.5.62-win32.msi)
 - osTicket v1.15.8
-- https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe
+- HeidiSQL_12.3.0.6589_Setup.exe
 
 <h2>Installation Steps</h2>
 
@@ -64,21 +59,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Select Ok to begin installation
 <br />
 
-- Download and Install [PHP Manager for IIS](url) 
-- Download and Install [Rewrite Module](url) 
+- Download and Install PHP Manager for IIS 
+- Download and Install Rewrite Module
 
 <br />
 
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/8a1b9d7c-ce51-4450-8e5c-cfef8855a769)
 
 - Create directory C:\PHP
-- Download [PHP 7.3.8](url) 
+- Download PHP 7.3.8
 - Unzip contents into C:\PHP
 
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/c27a0e0f-e405-4a28-9006-bbc2f6b89180)
 
-- Download and Install [VC_redist.x86.exe](url)
-- Download and Install [MySQL 5.5.62](url)
+- Download and Install VC_redist.x68.exe
+- Download and Install MySQL
 - Typical Setup
 - Launch configuraion Wizard
 - Standard Configuration
@@ -121,7 +116,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Then set full control permissions for everyone
 - Continue setting up osTicket in the browser
 - Fill out System Setting and Admin User
-- Before continuing with Database settings, download and install [HeidiSQL](url)
+- Before continuing with Database settings, download and install HeidiSQL
 - Open Heidi SQL and create a new session
 ![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/e96b0bd0-bb2b-492a-90f8-a42350e82289)
 - User: root
