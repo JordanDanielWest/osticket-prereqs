@@ -113,7 +113,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enable: php_imap.dll
 - Enable: php_intl.dll
 - Enable: php_opcache
-- 
+- Refresh osTicket in your browser and observe the changes
 
 
 <br />
