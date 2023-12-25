@@ -116,9 +116,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Refresh osTicket in your browser and observe the changes
 - Go to c:\inetpub\wwwroot\osTicket\include
 - Rename "ost-sampleconfig.php" to "ost-config.php"
-- Assign Permissions in "ost-config.php"
+- Assign new permissions in "ost-config.php"
 - 1st disable inheritance (remove all)
 - Then set full control permissions for everyone
+- Continue setting up osTicket in the browser
+- Fillout System Setting and Admin User
+- Before continuing with Database settings, download [HeidiSQL](url)
 
 
 <br />
