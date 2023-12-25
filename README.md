@@ -121,7 +121,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Then set full control permissions for everyone
 - Continue setting up osTicket in the browser
 - Fillout System Setting and Admin User
-- Before continuing with Database settings, download [HeidiSQL](url)
+- Before continuing with Database settings, download and install [HeidiSQL](url)
 
 
 <br />
