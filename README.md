@@ -120,8 +120,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - 1st disable inheritance (remove all)
 - Then set full control permissions for everyone
 - Continue setting up osTicket in the browser
-- Fillout System Setting and Admin User
+- Fill out System Setting and Admin User
 - Before continuing with Database settings, download and install [HeidiSQL](url)
-
+- Open Heidi SQL and create a new session
+![image](https://github.com/JordanDanielWest/osticket-prereqs/assets/96628562/e96b0bd0-bb2b-492a-90f8-a42350e82289)
+- User: root
+- Password: Password1
+- Select Open
+- Right click and select create new database name "osTicket"
 
 <br />
