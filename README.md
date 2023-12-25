@@ -127,6 +127,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - User: root
 - Password: Password1
 - Select Open
-- Right click and select create new database name "osTicket"
+- Right click  and select create new database
+- Name it "osTicket"
+- Return to osTicket in the browser and fillout Database settings
+- MySQL Database: osTicket
+- MySQL Username: root
+- MySQL Password: Password1
+- Click "Install Now"
+- osTicket should now be installed
+- [Help desk login page](url)
+- [osTicket End User link](url)
 
 <br />
