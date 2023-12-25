@@ -135,7 +135,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - MySQL Password: Password1
 - Click "Install Now"
 - osTicket should now be installed
-- [Help desk login page](url)
-- [osTicket End User link](url)
+- Delete c:\inetpub\wwwroot\osTicket\setup
+- Set permissions to read only for c:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 <br />
